@@ -1,7 +1,6 @@
-This application can be used by people who apply for reimbursement.  
-Manager can approve/deny the requests placed by employees.
-Employee can view his/her reimbursement requests in their respective home pages.
-In reimbursement request page we have type of reimbursement, amount, status.
+The Employee Reimbursement System will manage the process of reimbursing employees for expenses incurred while on company time. 
+All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests.
+Finance managers can log in and view all reimbursement requests and history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 Worked on Spring Tool Suite IDE for development.
 Implemented the project using Spring Boot.
 Incorporated Object-Oriented Programming concepts such as Abstraction, Encapuslation, Inheritance and Polymorphism.
